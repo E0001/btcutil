@@ -9,8 +9,8 @@ import (
 	"encoding/hex"
 	"testing"
 
+	. "github.com/E0001/btcutil"
 	"github.com/btcsuite/btcd/btcec/v2"
-	. "github.com/btcsuite/btcd/btcutil"
 	"github.com/btcsuite/btcd/chaincfg"
 )
 

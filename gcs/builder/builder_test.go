@@ -9,9 +9,9 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/btcutil/gcs"
-	"github.com/btcsuite/btcd/btcutil/gcs/builder"
+	"github.com/E0001/btcutil"
+	"github.com/E0001/btcutil/gcs"
+	"github.com/E0001/btcutil/gcs/builder"
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
 	"github.com/btcsuite/btcd/txscript"

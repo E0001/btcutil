@@ -13,7 +13,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/btcsuite/btcd/btcutil"
+	"github.com/E0001/btcutil"
 	"github.com/btcsuite/btcd/wire"
 )
 

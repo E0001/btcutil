@@ -8,8 +8,8 @@ import (
 	"bytes"
 	"errors"
 
+	"github.com/E0001/btcutil/base58"
 	"github.com/btcsuite/btcd/btcec/v2"
-	"github.com/btcsuite/btcd/btcutil/base58"
 	"github.com/btcsuite/btcd/chaincfg"
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
 )
